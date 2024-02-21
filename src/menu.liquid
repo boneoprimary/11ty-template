@@ -1,4 +1,11 @@
 ---
 layout: base
 ---
-<p>Hello, World!</p>
+{% comment %} `menu` is derived from the file name in the `_data` directory. {% endcomment %}
+<h1>{{ menu.title }}</h1>
+
+<ul>
+  {% for item in menu.menus %}
+    <li>{{ item }}</li>
+  {% endfor %}
+</ul>
