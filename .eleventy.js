@@ -5,15 +5,12 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents))
   eleventyConfig.addDataExtension("yml", (contents) => yaml.load(contents))
 
-  // Tailwind
-  eleventyConfig.addPassthroughCopy({
-    "src/_includes/tailwind.css": "./tailwind.css",
-  })
+  eleventyConfig.setTemplateFormats(["liquid", "css"])
 
   return {
     dir: {
       input: "src",
+      layouts: "_layouts",
     },
-    passThroughFileCopy: true,
   }
 }
