@@ -50,3 +50,7 @@ To add styling, use the tailwind classes.
   }
 </style>
 ```
+
+- Heading
+- shows "We prefer Bitcoin"
+- Logo
