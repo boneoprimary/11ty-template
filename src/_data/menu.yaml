@@ -1,5 +1,13 @@
 title: Menu
 menus:
-  - item one
-  - item 2
-  - 3
+  - name: Taco
+    price: 4.0
+    description: taco content
+  - name: beef berger
+    price: 22.90
+    description: beef berger content
+  - name: beef berger
+    price: 22.90
+    description: beef berger content
+
+

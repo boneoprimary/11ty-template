@@ -6,6 +6,13 @@ layout: base
 
 <ul>
   {% for item in menu.menus %}
-    <li>{{ item }}</li>
+    <li class="bg-pink-300 flex gap-2">
+      <div>
+        <p>{{ item.name }}</p>
+        <p>{{ item.description }}</p>
+      </div>
+
+      <p>{{ item.price }}</p>
+    </li>
   {% endfor %}
 </ul>
