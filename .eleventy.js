@@ -6,6 +6,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addDataExtension("yml", (contents) => yaml.load(contents))
 
   eleventyConfig.setTemplateFormats(["liquid", "css"])
+  eleventyConfig.addPassthroughCopy('static');
 
   return {
     dir: {

@@ -1,0 +1,19 @@
+- Home Page (Scarllett)
+    - Name of restaurant
+    - Logo
+    - Bit coin preferred
+- Contact (James)
+    - Location, Address
+    - Open hours
+    - phone number
+    - email address
+- Reviews (Scarlett)
+    - Name
+    - Date
+    - REview
+    - Rating
+- About (Annabelle)
+    - Bit coin preferred
+    - INfromation about the owners
+- Menu (Jenson)
+- Gallery

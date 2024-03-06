@@ -1,16 +1,45 @@
 title: Menu
 menus:
- - FOOD 
-  - Muffins
-  - Poached Eggs
-  - Hashbrowns
-  - calamari
-  - calamari salad
-  - Toast
-  bacon roll
-  - bacon and eggs roll
-  - Egg rolls 
-  - corn friiters
-  - bacon and eggs
-  - Fried eggs
-  - Fritters
+ - category: FOOD 
+   items: 
+    - Muffins
+    - Poached Eggs
+    - Hashbrowns
+    - calamari
+    - calamari salad
+    - Toast
+    - bacon roll
+    - bacon and eggs roll
+    - Egg rolls 
+    - corn fritters
+    - bacon and eggs
+    - Fried eggs
+    - Fritters
+
+
+
+
+#  - Drinks
+#  - Tea
+#  - Juice
+#  - water
+#  - Arch roaster coffee
+#  - Latte
+#  - cappuccino
+#  - Flat white
+#  - long black
+#  - Long Machiato
+#  - Espresso
+#  - Hot chocolate
+#  - Mocha 
+#  - Spiced chai
+#  - Wet chai
+#  - Milkshakes
+#  - thickshakes
+#  - (Chocolate, Strawberry, vannila and caramel) Coffe and mocha
+#  - Iced latte
+#  - iced coffee
+#  - Iced chocolate
+#  - Dirty chai
+#  - Mango smoothie
+#  - 

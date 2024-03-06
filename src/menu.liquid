@@ -5,10 +5,12 @@ layout: base
 <h1>{{ menu.title }}</h1>
 
 <ul>
-  {% for item in menu.menus %}
+  {% for menuitem in menu.menus %}
+  {% endfor %}
     <li>
-      <p>{{ item  }}</p>
-      <p>{{ item }}</p>
+      <p>{{ menuitem.category }}</p>
+
+     <!-- {% for menuitem.items %} ->>
     </li>
   {% endfor %}
 </ul> 
