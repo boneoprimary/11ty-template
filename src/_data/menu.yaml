@@ -3,11 +3,11 @@ menus:
   - name: Taco
     price: 4.0
     description: taco content
-  - name: beef berger
+  - name: beef burger
     price: 22.90
-    description: beef berger content
-  - name: beef berger
+    description: beef burger content
+  - name: beef burger
     price: 22.90
-    description: beef berger content
-
+    description: beef burger content
+   
 
