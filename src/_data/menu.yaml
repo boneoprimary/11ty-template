@@ -1,45 +1,55 @@
 title: Menu
 menus:
- - category: FOOD 
-   items: 
-    - Muffins
-    - Poached Eggs
-    - Hashbrowns
-    - calamari
-    - calamari salad
-    - Toast
-    - bacon roll
-    - bacon and eggs roll
-    - Egg rolls 
-    - corn fritters
-    - bacon and eggs
-    - Fried eggs
-    - Fritters
+  - category: FOOD 
+    items: 
+      - Muffins
+      - Poached Eggs
+      - Hashbrowns
+      - calamari
+      - calamari salad
+      - Toast   
+      - bacon and eggs roll
+      - bacon roll
+      - Egg rolls 
+      - corn fritters
+      - bacon and eggs
+      - Fried eggs
+      - Fritters
 
-
-
-
-#  - Drinks
-#  - Tea
-#  - Juice
-#  - water
-#  - Arch roaster coffee
-#  - Latte
-#  - cappuccino
-#  - Flat white
-#  - long black
-#  - Long Machiato
-#  - Espresso
-#  - Hot chocolate
-#  - Mocha 
-#  - Spiced chai
-#  - Wet chai
-#  - Milkshakes
-#  - thickshakes
-#  - (Chocolate, Strawberry, vannila and caramel) Coffe and mocha
-#  - Iced latte
-#  - iced coffee
-#  - Iced chocolate
-#  - Dirty chai
-#  - Mango smoothie
-#  - 
+  - category: Drinks
+    items:
+      - Hot drinks
+      - Arch roaster coffee
+      - Latte
+      - cappuccino
+      - Flat white
+      - long black
+      - Long Machiato
+      - Espresso
+      - Hot chocolate
+      - Mocha 
+      - Spiced chai
+      - Wet chai
+      - Cold drinks
+      - Milkshakes
+      - thickshakes
+      - (Chocolate, Strawberry, vannila and caramel) Coffe and mocha
+      - Iced latte
+      - iced coffee
+      - Iced chocolate
+      - Dirty chai
+      - Smoothies
+      - Mango smoothie (mango, banana, coconut, Yogurt & coconut water)
+      - Mixed berry smoothie (Blueberries, Rassberies,strawberries,banana, ice cream & milk syrup)
+      - Green smoothie (Spinach, banana, kiwi fruit & apple juice)
+      - Breaky smoothie (Banana, Dates, peanut butter, ice &almond milk) 
+      -Tea
+      - Earl grey
+      - english breakfast
+      - peppermint
+      - lemongrass & ginger
+      - Juices
+      - Rebel (Beetroot, Carrot, Apple, Lemon & Ginger)
+      - Simply Green (cucumber,Spinach, Celery, Apple & mint 
+      - Orange juice
+      - Extras W.I.P 
