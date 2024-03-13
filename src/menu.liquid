@@ -3,17 +3,18 @@ layout: base
 ---
 {% comment %} `menu` is derived from the file name in the `_data` directory. {% endcomment %}
 <h1>{{ menu.title }}</h1>
+
 <ul>
-  {% for menuitem in menu.menus %}
- 
-    <li class="flex">
-      <div class="flex flex-col gap-2">
-        <p>{{ menuitem.name }}</p>
-        <p>{{ menuitem.description }}</p>
+{% for menuitem in menu.menus %}
+     <li style="display: flex; justify-content:stretch;">
+     <div >
+      <p>{{ menuitem.name }}</p>
+      <p>{{ menuitem.description }}</p>
       </div>
-      <div> 
-        <p>${{ menuitem.price }}</p>
-      </div>
-    </li>
+
+      <p>{{ menuitem.price }}</p>
+     
+    </li>  
   {% endfor %}
+
 </ul> 
